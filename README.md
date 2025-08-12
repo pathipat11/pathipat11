@@ -109,11 +109,13 @@
   </a>
 </p>
 
+---
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathipat11&show_icons=true&locale=en&layout=compact" alt="pathipat11" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathipat11&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="pathipat11" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathipat11&show_icons=true&locale=en" alt="pathipat11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathipat11&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="pathipat11" /></p>
 
 <!--
 **pathipat11/pathipat11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
