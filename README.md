@@ -3,8 +3,10 @@
 <!--   <img src="https://img.shields.io/github/followers/pathipat11?style=flat&color=brightgreen" alt="Followers" />
   <img src="https://img.shields.io/github/stars/pathipat11?style=flat&color=yellow" alt="Stars" /> -->
 </p>
-<h1 align="center">Hi 👋, I'm Pathipat Mattra ( Palmy )
+<!-- <h1 align="center">Hi 👋, I'm Pathipat Mattra ( Palmy )</h1> -->
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pathipat+Mattra!;" />
 </h1>
 <h3 align="center">A passionate software developer on full stack developer & back-end developer</h3>
 
@@ -18,12 +20,15 @@
 
 - 📫 How to reach me **pathipat.mattra@gmail.com**
 
-<h4 align="left">Connect with me</h4>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pathipat-mattra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<!-- <h4 align="left">Connect with me</h4>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/pathipat-mattra/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pathipat-mattra/" height="30" width="40" />
   </a>
-</p>
+</p> -->
 
 #
 
