@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pathipat Mattra ( Palmy )</h1>
 <h3 align="center">A passionate software developer on full stack developer & back-end developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pathipat11&label=Profile%20views&color=0e75b6&style=plastic" alt="pathipat11" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pathipat11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<!--   <img src="https://img.shields.io/github/followers/pathipat11?style=flat&color=brightgreen" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/pathipat11?style=flat&color=yellow" alt="Stars" /> -->
+</p>
 
 - 🔭 I’m currently working on **student computer science**
 
@@ -21,7 +25,7 @@
 #
 
 <h4 align="left">Programming Languages</h4>
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -52,10 +56,13 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+</p> -->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,cs,dart,go,java" />
 </p>
 
 <h4 align="left">Frameworks & Libraries</h4>
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
@@ -83,10 +90,13 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+</p> -->
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,next,express,nodejs,react,flutter,bootstrap,tailwind" />
 </p>
 
 <h4 align="left">Database Management</h4>
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
@@ -99,10 +109,13 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+</p> -->
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
 </p>
 
 <h4 align="left">Tools & Technologies</h4>
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -130,14 +143,27 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+</p> -->
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,postman,unity" />
 </p>
 
-<p>
+#
+
+<h4 align="left">GitHub Stats</h4>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathipat11&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="pathipat11" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathipat11&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="pathipat11" /></p>
-
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pathipat11&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="pathipat11" />
+</p>
+ -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pathipat11&show_icons=true&theme=dracula&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathipat11&layout=compact&theme=dracula&hide_border=true" height="165" />
+</p>
+ 
 #
 
 <h4 align="left">My GitHub Contributions</h4>
