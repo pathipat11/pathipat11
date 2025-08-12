@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pathipat Mattra ( Palmy )</h1>
-<h3 align="center">A passionate software developer on full stack developer & back-end developer</h3>
-
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=pathipat11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <!--   <img src="https://img.shields.io/github/followers/pathipat11?style=flat&color=brightgreen" alt="Followers" />
   <img src="https://img.shields.io/github/stars/pathipat11?style=flat&color=yellow" alt="Stars" /> -->
 </p>
+<h1 align="center">Hi 👋, I'm Pathipat Mattra ( Palmy )
+
+</h1>
+<h3 align="center">A passionate software developer on full stack developer & back-end developer</h3>
+
+
 
 - 🔭 I’m currently working on **student computer science**
 
@@ -163,7 +166,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pathipat11&show_icons=true&theme=dracula&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathipat11&layout=compact&theme=dracula&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=pathipat11&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
 </p>
  
 #
