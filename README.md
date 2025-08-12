@@ -17,6 +17,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pathipat-mattra/" height="30" width="40" />
   </a>
 </p>
+
+#
+
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -129,7 +132,7 @@
   </a>
 </p>
 
----
+#
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathipat11&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="pathipat11" />
@@ -137,6 +140,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathipat11&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="pathipat11" /></p>
 
+#
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathipat11/pathipat11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathipat11/pathipat11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pathipat11/pathipat11/output/pacman-contribution-graph.svg">
+</picture>
 <!-- Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathipat11" alt="pathipat11" /></a> </p>
 -->
