@@ -162,6 +162,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pathipat11&show_icons=true&theme=dracula&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathipat11&layout=compact&theme=dracula&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=pathipat11&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
 </p>
  
 #
