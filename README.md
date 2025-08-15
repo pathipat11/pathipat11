@@ -11,7 +11,6 @@
 <h3 align="center">A passionate software developer on full stack developer & back-end developer</h3>
 
 
-
 - 🔭 I’m currently working on **student computer science**
 
 - 👯 I’m looking to collaborate on **software developer (full stack & back-end developer)**
