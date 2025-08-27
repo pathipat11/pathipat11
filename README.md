@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **pathipat.mattra@gmail.com**
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pathipat-mattra/" target="_blank">
+<a href="http://www.linkedin.com/in/pathipat-mattra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 <!-- <h4 align="left">Connect with me</h4>
