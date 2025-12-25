@@ -99,7 +99,7 @@
   </a>
 </p> -->
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,next,express,nodejs,react,flutter,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,vue,next,express,nodejs,react,flutter,bootstrap,tailwind" />
 </p>
 
 <h4 align="left">Database Management</h4>
