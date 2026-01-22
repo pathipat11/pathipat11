@@ -8,12 +8,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=36BCF7FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pathipat+Mattra!;" />
 </h1>
-<h3 align="center">A passionate software developer on full stack developer & back-end developer or AI engineer</h3>
+<h3 align="center">A passionate software engineer on full stack developer or AI/ML Engineer</h3>
 
 
 - I’m currently working on **student computer science**
 
-- I’m looking to collaborate on **software developer (full stack & back-end developer & AI engineer)**
+- I’m looking to collaborate on **software developer (full stack & back-end developer & AI/ML Engineer)**
 
 - All of my projects are available at [github.com/pathipat11](github.com/pathipat11)
 
