@@ -8,16 +8,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=36BCF7FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pathipat+Mattra!;" />
 </h1>
-<h3 align="center">A passionate software developer on full stack developer & back-end developer</h3>
+<h3 align="center">A passionate software developer on full stack developer & back-end developer or AI engineer</h3>
 
 
-- 🔭 I’m currently working on **student computer science**
+- I’m currently working on **student computer science**
 
-- 👯 I’m looking to collaborate on **software developer (full stack & back-end developer)**
+- I’m looking to collaborate on **software developer (full stack & back-end developer & AI engineer)**
 
-- 👨‍💻 All of my projects are available at [github.com/pathipat11](github.com/pathipat11)
+- All of my projects are available at [github.com/pathipat11](github.com/pathipat11)
 
-- 📫 How to reach me **pathipat.mattra@gmail.com**
+- How to reach me **pathipat.mattra@gmail.com**
 
 <a href="https://www.linkedin.com/in/pathipat-mattra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -152,7 +152,7 @@
   </a>
 </p> -->
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,postman,unity" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,postman,unity,aws,eclipse,notion,obsidian" />
 </p>
 
 #
