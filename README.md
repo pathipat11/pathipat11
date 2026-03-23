@@ -65,7 +65,7 @@
   </a>
 </p> -->
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,cs,dart,go,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,cs,dart,go,java" />
 </p>
 
 <h4 align="left">Frameworks & Libraries</h4>
@@ -118,7 +118,7 @@
   </a>
 </p> -->
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 <h4 align="left">Tools & Technologies</h4>
